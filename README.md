@@ -19,9 +19,9 @@ NM **Assignments**
 - Assignment#8
 
 NM **Labsheets**
-- Lab Instructions
-- Cover Page of Lab Report
-- Labsheet#1
+- [Lab Instructions](https://github.com/KCE/NM/blob/master/01_Lab_Instructions.pdf)
+- [Cover Page of Lab Report](https://github.com/KCE/NM/blob/master/01_Cover_Page_of_Lab_Report.pdf)
+- [Labsheet#1](https://github.com/KCE/NM/blob/master/Labsheet_1.pdf)
 - Labsheet#2
 - Labsheet#3
 - Labsheet#4
