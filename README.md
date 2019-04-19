@@ -36,6 +36,23 @@ NM **Labsheets**
 - [NM Syllabus](https://github.com/KCE/NM/blob/master/NM_Syllabus.pdf)
 - [NM Books](https://github.com/KCE/NM/issues/1)
 - NM Question Bank
+- Population Census Summary of Nepal
+- NM Question Bank
+- NM 5 Set Questions
+- Regression Plane Fitting
 - First Assessment Result
 - Final Assessment Result
 - Final Internal Marks of NM
+
+**Useful Links**
+- [CodeWithC.com](https://www.codewithc.com/numerical-methods-tutorial/)
+- [Blog for Engineering Students](https://sksth.blogspot.com/2012/08/bisection-method-used-to-find-roots-of.html?view=sidebar)
+- [Online C Compiler](https://www.onlinegdb.com/online_c_compiler)
+- [4x4 Equation Solver](http://math.bd.psu.edu/~jpp4/finitemath/4x4solver.html)
+- [Eigenvalue/Eigenvector Calculator](http://comnuan.com/cmnn01002/cmnn01002.php)
+
+**Eigen Vectors**
+
+![eigenvectors](https://user-images.githubusercontent.com/5508421/40819833-ed5d0c14-657c-11e8-8d4b-ee4fbc45e068.gif)
+
+The vectors in red are not parallel to either eigenvector, so, their directions are changed by the transformation. The blue vectors after the transformation are three times the length of the original (their eigenvalue is 3), while the lengths of the purple vectors are unchanged (reflecting an eigenvalue of 1). See also: [An extended version, showing all four quadrants](https://en.wikipedia.org/wiki/File:Eigenvectors-extended.gif)
