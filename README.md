@@ -22,7 +22,7 @@ NM **Labsheets**
 - [Lab Instructions](https://github.com/KCE/NM/blob/master/01_Lab_Instructions.pdf)
 - [Cover Page of Lab Report](https://github.com/KCE/NM/blob/master/01_Cover_Page_of_Lab_Report.pdf)
 - [Labsheet#1](https://github.com/KCE/NM/blob/master/Labsheet_1.pdf)
-- Labsheet#2
+- [Labsheet#2](https://github.com/KCE/NM/blob/master/Labsheet_2.pdf)
 - Labsheet#3
 - Labsheet#4
 - Labsheet#5
