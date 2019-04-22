@@ -6,7 +6,7 @@ Numerical Methods (NM)
  ![Version](https://img.shields.io/badge/version-2.0-blue.svg)
 
 NM **Lecturer Slides**
-- Chapter 0: NM Orientation
+- [Chapter 0: NM Orientation](https://github.com/KCE/NM/blob/master/Ch0_Intro_to_Numerical_Computing.pdf)
 
 NM **Assignments**
 - Assignment#1
