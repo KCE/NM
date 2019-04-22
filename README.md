@@ -50,6 +50,8 @@ NM **Labsheets**
 - [Online C Compiler](https://www.onlinegdb.com/online_c_compiler)
 - [4x4 Equation Solver](http://math.bd.psu.edu/~jpp4/finitemath/4x4solver.html)
 - [Eigenvalue/Eigenvector Calculator](http://comnuan.com/cmnn01002/cmnn01002.php)
+- [Systems of Linear Equations](https://www.mathsisfun.com/algebra/systems-linear-equations.html)
+- [Systems of Nonlinear Equations and Inequalities: Two Variables](https://courses.lumenlearning.com/suny-osalgebratrig/chapter/systems-of-nonlinear-equations-and-inequalities-two-variables/)
 
 **Eigen Vectors**
 
