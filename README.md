@@ -35,7 +35,7 @@ NM **Labsheets**
 **Miscellaneous**
 - [NM Syllabus](https://github.com/KCE/NM/blob/master/NM_Syllabus.pdf)
 - [NM Books](https://github.com/KCE/NM/issues/1)
-- NM Question Bank
+- [NM Question Bank](https://github.com/KCE/NM/tree/master/NM_Qs_Bank)
 - [Population Census Summary of Nepal](https://github.com/KCE/NM/blob/master/Population-Census-Summary-of-Nepal.pdf)
 - NM Question Bank
 - NM 5 Set Questions
