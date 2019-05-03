@@ -9,7 +9,7 @@ NM **Lecturer Slides**
 - [Chapter 0: NM Orientation](https://github.com/KCE/NM/blob/master/Ch0_Intro_to_Numerical_Computing.pdf)
 
 NM **Assignments**
-- Assignment#1
+- [Assignment#1](https://github.com/KCE/NM/blob/master/NM_Assignments/Assignment_1.pdf)
 - Assignment#2
 - Assignment#3
 - Assignment#4
@@ -21,11 +21,11 @@ NM **Assignments**
 [NM **Labsheets**](https://github.com/KCE/NM/tree/master/NM_Labsheets)
 - [Lab Instructions](https://github.com/KCE/NM/blob/master/01_Lab_Instructions.pdf)
 - [Cover Page of Lab Report](https://github.com/KCE/NM/blob/master/01_Cover_Page_of_Lab_Report.pdf)
-- [Labsheet#1](https://github.com/KCE/NM/blob/master/Labsheet_1.pdf)
-- [Labsheet#2](https://github.com/KCE/NM/blob/master/Labsheet_2.pdf)
-- Labsheet#3
-- Labsheet#4
-- Labsheet#5
+- [Labsheet#1](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_1.pdf)
+- [Labsheet#2](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_2.pdf)
+- [Labsheet#3](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_3.pdf)
+- [Labsheet#4](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_4.pdf)
+- [Labsheet#5](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_5.pdf)
 - Labsheet#6
 - Labsheet#7
 - Labsheet#8
@@ -37,7 +37,7 @@ NM **Assignments**
 - [NM Books](https://github.com/KCE/NM/issues/1)
 - [NM Question Bank](https://github.com/KCE/NM/tree/master/NM_Qs_Bank)
 - [Population Census Summary of Nepal](https://github.com/KCE/NM/blob/master/Population-Census-Summary-of-Nepal.pdf)
-- NM Question Bank
+- [NM Question Bank](https://github.com/KCE/NM/tree/master/NM_Qs_Bank)
 - NM 5 Set Questions
 - Regression Plane Fitting
 - First Assessment Result
