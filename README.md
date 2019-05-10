@@ -45,6 +45,7 @@ NM **Assignments**
 
 **Useful Links**
 - [Lagrange's Interpolation](https://www.geeksforgeeks.org/lagranges-interpolation/)
+- [Gaussian Elimination - Online Solutions](https://www.matesfacil.com/english/high/solving-systems-by-Gaussian-Elimination.html)
 - [CodeWithC.com](https://www.codewithc.com/numerical-methods-tutorial/)
 - [Blog for Engineering Students](https://sksth.blogspot.com/2012/08/bisection-method-used-to-find-roots-of.html?view=sidebar)
 - [Online C Compiler](https://www.onlinegdb.com/online_c_compiler)
