@@ -53,6 +53,7 @@ NM **Assignments**
 - [3x3 Equation Solver](http://math.bd.psu.edu/~jpp4/finitemath/3x3solver.html)
 - [4x4 Equation Solver](http://math.bd.psu.edu/~jpp4/finitemath/4x4solver.html)
 - [Eigenvalue/Eigenvector Calculator](http://comnuan.com/cmnn01002/cmnn01002.php)
+- [Finding of Eigenvalues and Eigenvectors](https://matrixcalc.org/en/vectors.html#diagonalize%28%7B%7B2,-1,0%7D,%7B-1,2,-1%7D,%7B0,-1,1%7D%7D%29)
 - [Systems of Linear Equations](https://www.mathsisfun.com/algebra/systems-linear-equations.html)
 - [Systems of Nonlinear Equations and Inequalities: Two Variables](https://courses.lumenlearning.com/suny-osalgebratrig/chapter/systems-of-nonlinear-equations-and-inequalities-two-variables/)
 
