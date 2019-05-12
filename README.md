@@ -50,6 +50,7 @@ NM **Assignments**
 - [CodeWithC.com](https://www.codewithc.com/numerical-methods-tutorial/)
 - [Blog for Engineering Students](https://sksth.blogspot.com/2012/08/bisection-method-used-to-find-roots-of.html?view=sidebar)
 - [Online C Compiler](https://www.onlinegdb.com/online_c_compiler)
+- [Gauss-Jordan Elimination](https://matrix.reshish.com/gauss-jordanElimination.php)
 - [Matrix Multiplication Calculator](https://matrix.reshish.com/multiplication.php)
 - [3x3 Equation Solver](http://math.bd.psu.edu/~jpp4/finitemath/3x3solver.html)
 - [4x4 Equation Solver](http://math.bd.psu.edu/~jpp4/finitemath/4x4solver.html)
