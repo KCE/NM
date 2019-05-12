@@ -52,6 +52,7 @@ NM **Assignments**
 - [Online C Compiler](https://www.onlinegdb.com/online_c_compiler)
 - [Gauss-Jordan Elimination](https://matrix.reshish.com/gauss-jordanElimination.php)
 - [Matrix Multiplication Calculator](https://matrix.reshish.com/multiplication.php)
+- [Inverse Matrix Calculator](https://matrix.reshish.com/inverse.php)
 - [3x3 Equation Solver](http://math.bd.psu.edu/~jpp4/finitemath/3x3solver.html)
 - [4x4 Equation Solver](http://math.bd.psu.edu/~jpp4/finitemath/4x4solver.html)
 - [Eigenvalue/Eigenvector Calculator](http://comnuan.com/cmnn01002/cmnn01002.php)
