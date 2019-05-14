@@ -26,7 +26,7 @@ NM **Assignments**
 - [Labsheet#3](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_3.pdf)
 - [Labsheet#4](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_4.pdf)
 - [Labsheet#5](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_5.pdf)
-- Labsheet#6
+- [Labsheet#6](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_6.pdf)
 - Labsheet#7
 - Labsheet#8
 - Labsheet#9
