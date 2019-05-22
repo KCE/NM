@@ -59,6 +59,7 @@ NM **Assignments**
 - [Finding of Eigenvalues and Eigenvectors](https://matrixcalc.org/en/vectors.html#diagonalize%28%7B%7B2,-1,0%7D,%7B-1,2,-1%7D,%7B0,-1,1%7D%7D%29)
 - [Systems of Linear Equations](https://www.mathsisfun.com/algebra/systems-linear-equations.html)
 - [Systems of Nonlinear Equations and Inequalities: Two Variables](https://courses.lumenlearning.com/suny-osalgebratrig/chapter/systems-of-nonlinear-equations-and-inequalities-two-variables/)
+- [Holistic Numerical Methods](http://mathforcollege.com/nm/#sthash.vK3WOmm6.dpbs)
 
 **Eigen Vectors**
 
