@@ -14,7 +14,7 @@ NM **Lecturer Slides**
 [NM **Labsheets**](https://github.com/KCE/NM/tree/master/NM_Labsheets)
 - [Lab Instructions](https://github.com/KCE/NM/blob/master/01_Lab_Instructions.pdf)
 - [Cover Page of Lab Report](https://github.com/KCE/NM/blob/master/01_Cover_Page_of_Lab_Report.pdf)
-- Labsheets: [#1](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_1.pdf), [#2](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_2.pdf), [#3](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_3.pdf), [#4](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_4.pdf), [#5](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_5.pdf), [#6](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_6.pdf), [#7](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_7.pdf), [#8](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_8.pdf), #9, #10
+- Labsheets: [#1](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_1.pdf), [#2](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_2.pdf), [#3](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_3.pdf), [#4](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_4.pdf), [#5](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_5.pdf), [#6](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_6.pdf), [#7](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_7.pdf), [#8](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_8.pdf), [#9](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_9.pdf), #10
 
 **Miscellaneous**
 - [NM Syllabus](https://github.com/KCE/NM/blob/master/NM_Syllabus.pdf)
