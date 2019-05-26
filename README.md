@@ -48,6 +48,7 @@ NM **Assignments**
 - [10 Resolved Systems by Gaussian Elimination](https://www.matesfacil.com/english/high/solving-systems-by-Gaussian-Elimination.html)
 - [Online Math Calculators and Solvers](https://www.mathportal.org/calculators.php)
 - [CodeWithC.com](https://www.codewithc.com/numerical-methods-tutorial/)
+- [CodeSansar.com](https://www.codesansar.com/numerical-methods/)
 - [Blog for Engineering Students](https://sksth.blogspot.com/2012/08/bisection-method-used-to-find-roots-of.html?view=sidebar)
 - [Online C Compiler](https://www.onlinegdb.com/online_c_compiler)
 - [Gauss-Jordan Elimination](https://matrix.reshish.com/gauss-jordanElimination.php)
