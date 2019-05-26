@@ -21,14 +21,11 @@ NM **Assignments**
 [NM **Labsheets**](https://github.com/KCE/NM/tree/master/NM_Labsheets)
 - [Lab Instructions](https://github.com/KCE/NM/blob/master/01_Lab_Instructions.pdf)
 - [Cover Page of Lab Report](https://github.com/KCE/NM/blob/master/01_Cover_Page_of_Lab_Report.pdf)
-- [Labsheet#1](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_1.pdf)
-- [Labsheet#2](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_2.pdf)
-- [Labsheet#3](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_3.pdf)
-- [Labsheet#4](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_4.pdf)
+- [Labsheet#1](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_1.pdf), [Labsheet#2](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_2.pdf), [Labsheet#3](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_3.pdf), [Labsheet#4](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_4.pdf)
 - [Labsheet#5](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_5.pdf)
 - [Labsheet#6](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_6.pdf)
 - [Labsheet#7](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_7.pdf)
-- Labsheet#8
+- [Labsheet#8](https://github.com/KCE/NM/blob/master/NM_Labsheets/Labsheet_8.pdf)
 - Labsheet#9
 - Labsheet#10
 
