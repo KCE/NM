@@ -8,15 +8,8 @@ Numerical Methods (NM)
 NM **Lecturer Slides**
 - [Chapter 0: NM Orientation](https://github.com/KCE/NM/blob/master/Ch0_Intro_to_Numerical_Computing.pdf)
 
-NM **Assignments**
-- [Assignment#1](https://github.com/KCE/NM/blob/master/NM_Assignments/Assignment_1.pdf)
-- [Assignment#2](https://github.com/KCE/NM/blob/master/NM_Assignments/Assignment_2.pdf)
-- [Assignment#3](https://github.com/KCE/NM/blob/master/NM_Assignments/Assignment_3.pdf)
-- Assignment#4
-- Assignment#5
-- Assignment#6
-- Assignment#7
-- Assignment#8
+[NM **Assignments**](https://github.com/KCE/NM/tree/master/NM_Assignments)
+- Assignments: [#1](https://github.com/KCE/NM/blob/master/NM_Assignments/Assignment_1.pdf), [#2](https://github.com/KCE/NM/blob/master/NM_Assignments/Assignment_2.pdf), [#3](https://github.com/KCE/NM/blob/master/NM_Assignments/Assignment_3.pdf), #4, #5, #6, #7, #8
 
 [NM **Labsheets**](https://github.com/KCE/NM/tree/master/NM_Labsheets)
 - [Lab Instructions](https://github.com/KCE/NM/blob/master/01_Lab_Instructions.pdf)
