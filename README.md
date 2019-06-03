@@ -46,6 +46,7 @@ NM **Lecturer Slides**
 - [Systems of Nonlinear Equations and Inequalities: Two Variables](https://courses.lumenlearning.com/suny-osalgebratrig/chapter/systems-of-nonlinear-equations-and-inequalities-two-variables/)
 - [Online Curve Fitting](https://mycurvefit.com/)
 - [Cubic Splines Generation](https://tools.timodenk.com/cubic-spline-interpolation)
+- [Bezier Curves](https://www.desmos.com/calculator/cahqdxeshd)
 - [Holistic Numerical Methods](http://mathforcollege.com/nm/#sthash.vK3WOmm6.dpbs)
 
 **Eigen Vectors**
