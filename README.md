@@ -28,6 +28,7 @@ NM **Lecturer Slides**
 - Final Internal Marks of NM
 
 **Useful Links**
+- [NM Video Lectures](https://www.youtube.com/watch?v=eHNUe0KtUNs&list=PLX_u9dGF6jKacesccdZ9tUePBKkLYQ1Yo)
 - [Lagrange's Interpolation](https://www.geeksforgeeks.org/lagranges-interpolation/)
 - [10 Resolved Systems by Gaussian Elimination](https://www.matesfacil.com/english/high/solving-systems-by-Gaussian-Elimination.html)
 - [Online Math Calculators and Solvers](https://www.mathportal.org/calculators.php)
